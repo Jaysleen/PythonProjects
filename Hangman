@@ -1,1 +1,25 @@
+Flowchart
 
+Start
+Generate a random number
+Genearte blanks equal to the letters in a word
+Ask the user to guess letters
+Is the guessed letter in the word?
+If yes:
+Replace the blank with the letter
+Then,
+Are all the blanks filled?
+If Yes,
+Game Over
+If No,
+Go back to line 6.
+
+Now, If No , #From Line 7
+Lose a life
+Then,
+Have they run out of lives?
+If Yes, 
+Game over
+
+If No, 
+Return to Line 6.
